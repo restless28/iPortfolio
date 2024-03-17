@@ -4,9 +4,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-function sendEmail(){
-  
-}
 
 (function() {
   "use strict";
